@@ -187,7 +187,8 @@ display_ascii() {
     echo "██║     ██║  ██║██║     ██║  ██║    ██║ ╚═╝ ██║╚██████╔╝███████╗██║   ██║"
     echo "╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝"
     echo -e "${RESET}"
-        echo -e "${CYAN}📢 Telegram Channel: https://t.me/papa_multi${RESET}"
+    
+    echo -e "${CYAN}📢 Telegram Channel: https://t.me/papa_multi${RESET}"
     echo -e "${BLUE}🐦 Twitter (X): https://x.com/0xpapamulti${RESET}"
 }
    
