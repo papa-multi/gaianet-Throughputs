@@ -28,3 +28,7 @@ Follow the steps carefully
 This setup only grants you Throughputs points
 
 If you want to earn other points, follow the additional steps : https://t.me/crypton_calls/19276 
+
+Do not join any domain, otherwise you won't earn points
+Only for earning points, which will be deducted from your credit
+Choose a domain that fits your model
